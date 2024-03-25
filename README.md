@@ -11,3 +11,6 @@ The repository is made with Flutter along with Unity using a bridged open source
 ## Demo Video
 
 Link to demo video : [GDrive](https://drive.google.com/file/d/1uyKONAcb8m9nJV89lk125fFLr7KK33HH/view?usp=sharing)
+
+## Executable builds 
+Android : [APK Download](https://drive.google.com/file/d/1zT61PyXesZMJnZRxz2ZA79TEn1p-YxgK/view?usp=sharing)

@@ -10,4 +10,4 @@ The repository is made with Flutter along with Unity using a bridged open source
 
 ## Demo Video
 
-Link to demo video : [Youtube](https://drive.google.com/file/d/1uyKONAcb8m9nJV89lk125fFLr7KK33HH/view?usp=sharing)
+Link to demo video : [GDrive](https://drive.google.com/file/d/1uyKONAcb8m9nJV89lk125fFLr7KK33HH/view?usp=sharing)
